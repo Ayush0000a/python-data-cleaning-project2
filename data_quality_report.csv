@@ -1,0 +1,8 @@
+Metric,Before Cleaning,After Cleaning
+Total rows,10,9
+Total columns,5,5
+Exact duplicate rows,1,0
+Missing values (all columns),3,1
+Invalid age records,2,0
+Negative purchase amounts,1,0
+Missing values after cleaning,Not applicable,1
